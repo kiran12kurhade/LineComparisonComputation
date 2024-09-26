@@ -15,10 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/kiran12kurhade/LineComparisonComputation.git&quot;,
-    &quot;accountId&quot;: &quot;a9ad313d-6d03-4012-b283-d5f870d2be78&quot;
+
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -60,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727345860353</updated>
-      <workItem from="1727345861433" duration="347000" />
+      <workItem from="1727345861433" duration="748000" />
     </task>
     <servers />
   </component>
